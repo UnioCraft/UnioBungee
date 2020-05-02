@@ -1,0 +1,6 @@
+name: UnioBungee
+main: com.uniocraft.UnioBungee.Main
+author: UnioDex
+version: 2.0
+
+softdepend: ['PartyAndFriends', 'ChangeSkin']

@@ -1,0 +1,9 @@
+MySQL:
+  host: ''
+  database: bungee
+  username: bungee
+  password: ''
+  table: 'unioskin_waitingSkins'
+QueueServers:
+  - Factions
+  - Skyblock
